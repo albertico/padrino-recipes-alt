@@ -13,4 +13,4 @@ get 'https://raw.github.com/Leaflet/Leaflet/v0.7.3/dist/images/marker-icon-2x.pn
 get 'https://raw.github.com/Leaflet/Leaflet/v0.7.3/dist/images/marker-icon.png', destination_root('public/images/marker-icon.png')
 get 'https://raw.github.com/Leaflet/Leaflet/v0.7.3/dist/images/marker-shadow.png', destination_root('public/images/marker-shadow.png')
 # Replace images URL path in CSS to reflect destination path into Padrino scaffold.
-gsub_file destination_root('public/stylesheets/leaflet.css'), "url\((images/*.png)\)", "url\(../images/\\1\)"
+gsub_file destination_root('public/stylesheets/leaflet.css'), /url\(images\/(.*[.]png)\)/, "url(../images/\\1)"

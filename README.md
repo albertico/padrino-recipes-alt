@@ -12,5 +12,6 @@ To run a plugin:
 
 - **fontawesome**  - [Font Awesome](http://fontawesome.io/) CSS + Fonts.
 - **jquery1**      - [jQuery](http://jquery.com/) (v1.x) libraries.
+- **jquery2**      - [jQuery](http://jquery.com/) (v2.x) libraries.
 - **raphaeljs**    - [RaphaëlJS](http://raphaeljs.com/) libraries.
 - **raphy_charts** - [Raphy Charts](http://softwarebyjosh.com/raphy-charts/) » A RaphaëlJS based HTML5/SVG charts library.

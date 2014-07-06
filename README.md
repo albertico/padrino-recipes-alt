@@ -11,3 +11,4 @@ To run a plugin:
 ```
 
 - **fontawesome** - Font Awesome CSS + Fonts.
+- **raphaeljs**   - RaphaëlJS libraries.

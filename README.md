@@ -7,5 +7,7 @@ This is a staging repository for some new or experimental [Padrino](http://www.p
 To run a plugin:
 
 ```bash
-  $ padrino-gen plugin https://github.com/albertico/padrino-recipes-alt/plugin/<name-of-the-plugin>
+  $> padrino-gen plugin https://github.com/albertico/padrino-recipes-alt/plugin/<name-of-the-plugin>
 ```
+
+- **fontawesome** - Font Awesome CSS + Fonts.

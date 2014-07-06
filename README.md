@@ -10,5 +10,6 @@ To run a plugin:
   $> padrino-gen plugin https://github.com/albertico/padrino-recipes-alt/raw/master/plugins/<plugin-file>
 ```
 
-- **fontawesome** - Font Awesome CSS + Fonts.
-- **raphaeljs**   - RaphaëlJS libraries.
+- **fontawesome**  - Font Awesome CSS + Fonts.
+- **raphaeljs**    - RaphaëlJS libraries.
+- **raphy_charts** - Raphy Charts - A RaphaëlJS based HTML5/SVG charts library.

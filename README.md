@@ -14,5 +14,6 @@ To run a plugin:
 - **jquery1**      - [jQuery](http://jquery.com/) (v1.x) libraries.
 - **jquery2**      - [jQuery](http://jquery.com/) (v2.x) libraries.
 - **justgagejs**   - [JustGage](http://justgage.com/) JS » A RaphaëlJS based SVG gage/gauge library.
+- **leafletjs**    - [Leaflet](http://leafletjs.com/) javascript library for maps.
 - **raphaeljs**    - [RaphaëlJS](http://raphaeljs.com/) libraries.
 - **raphy_charts** - [Raphy Charts](http://softwarebyjosh.com/raphy-charts/) » A RaphaëlJS based HTML5/SVG charts library.

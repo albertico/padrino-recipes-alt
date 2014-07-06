@@ -10,10 +10,11 @@ To run a plugin:
   $> padrino-gen plugin https://github.com/albertico/padrino-recipes-alt/raw/master/plugins/<plugin-file>
 ```
 
-- **fontawesome**  - [Font Awesome](http://fontawesome.io/) CSS + Fonts.
-- **jquery1**      - [jQuery](http://jquery.com/) (v1.x) libraries.
-- **jquery2**      - [jQuery](http://jquery.com/) (v2.x) libraries.
-- **justgagejs**   - [JustGage](http://justgage.com/) JS » A RaphaëlJS based SVG gage/gauge library.
-- **leafletjs**    - [Leaflet](http://leafletjs.com/) javascript library for maps.
-- **raphaeljs**    - [RaphaëlJS](http://raphaeljs.com/) libraries.
-- **raphy_charts** - [Raphy Charts](http://softwarebyjosh.com/raphy-charts/) » A RaphaëlJS based HTML5/SVG charts library.
+- **bootstrapvalidatorjs** - [Bootstrap Validator](http://bootstrapvalidator.com/) plugin to validate form fields (requires jQuery and Bootstrap)
+- **fontawesome**          - [Font Awesome](http://fontawesome.io/) CSS + Fonts.
+- **jquery1**              - [jQuery](http://jquery.com/) (v1.x) libraries.
+- **jquery2**              - [jQuery](http://jquery.com/) (v2.x) libraries.
+- **justgagejs**           - [JustGage](http://justgage.com/) JS » A RaphaëlJS based SVG gage/gauge library.
+- **leafletjs**            - [Leaflet](http://leafletjs.com/) javascript library for maps.
+- **raphaeljs**            - [RaphaëlJS](http://raphaeljs.com/) libraries.
+- **raphy_charts**         - [Raphy Charts](http://softwarebyjosh.com/raphy-charts/) » A RaphaëlJS based HTML5/SVG charts library.

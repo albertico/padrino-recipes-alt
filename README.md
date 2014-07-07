@@ -10,7 +10,8 @@ To run a plugin:
   $> padrino-gen plugin https://github.com/albertico/padrino-recipes-alt/raw/master/plugins/<plugin-file>
 ```
 
-- **bootstrapvalidatorjs** - [Bootstrap Validator](http://bootstrapvalidator.com/) plugin to validate form fields (requires jQuery and Bootstrap)
+- **accwizardjs**          - [Acc-Wizard](http://sathomas.me/acc-wizard/) » An accordion-based wizard based on Bootstrap.
+- **bootstrapvalidatorjs** - [Bootstrap Validator](http://bootstrapvalidator.com/) plugin to validate form fields (requires jQuery and Bootstrap).
 - **fontawesome**          - [Font Awesome](http://fontawesome.io/) CSS + Fonts.
 - **jquery1**              - [jQuery](http://jquery.com/) (v1.x) libraries.
 - **jquery2**              - [jQuery](http://jquery.com/) (v2.x) libraries.

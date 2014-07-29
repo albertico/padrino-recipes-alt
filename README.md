@@ -21,3 +21,4 @@ To run a plugin:
 - **purecss**              - [Pure CSS](http://purecss.io/) » A set of small responsive CSS modules that you can use in every web project.
 - **raphaeljs**            - [RaphaëlJS](http://raphaeljs.com/) libraries.
 - **raphy_charts**         - [Raphy Charts](http://softwarebyjosh.com/raphy-charts/) » A RaphaëlJS based HTML5/SVG charts library.
+- **summernote**           - [Summernote](http://hackerwins.github.io/summernote/) » Super Simple WYSIWYG Editor on Bootstrap.

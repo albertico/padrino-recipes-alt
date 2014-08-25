@@ -12,6 +12,7 @@ To run a plugin:
 
 - **accwizardjs**          - [Acc-Wizard](http://sathomas.me/acc-wizard/) » An accordion-based wizard based on Bootstrap.
 - **bootstrapvalidatorjs** - [Bootstrap Validator](http://bootstrapvalidator.com/) plugin to validate form fields (requires jQuery and Bootstrap).
+- **bootstrapdatetimepicker** - [Bootstrap-DateTimePicker](http://eonasdan.github.io/bootstrap-datetimepicker/) widget (Compatible with [Bootstrap Validator](http://bootstrapvalidator.com/api/#datepicker-example)).
 - **d3js**                 - [D3.js](http://d3js.org/) » A javascript library for manipulating documents based on data.
 - **fontawesome**          - [Font Awesome](http://fontawesome.io/) CSS + Fonts.
 - **jquery1**              - [jQuery](http://jquery.com/) (v1.x) libraries.
